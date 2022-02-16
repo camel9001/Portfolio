@@ -1,0 +1,134 @@
+#hero {
+    height: 1024px;
+    width: 100%;
+    background: url("/Group\ 2.png") no-repeat center;
+    background-size: cover;
+}
+
+.navbar-default {
+    background: none;
+  }
+.akapit1 {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight: 100;
+    font-size: 72px;
+    margin-bottom: 0px;
+    display: inline-block;
+}
+.akapit2 {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight: 500;
+    font-size: 72px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+
+.nav-item-size {
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+
+  }
+.logo-right {
+    position: absolute;
+    left: 100px;
+    top: 40px;
+}
+.number {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 46px;
+    color: blue;
+    font-weight: 400;
+}
+
+.collapse-top {
+    position: absolute;
+    top: 60px;
+    right: 30px;
+
+}
+
+.toggler-top {
+    position: absolute;
+    top: 50px;
+    right: 60px;
+}
+
+.container-toright {
+    left: 80px;
+}
+
+#container-fluid {
+    height: 416px;
+}
+.portfolio-p {
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 256px;
+color: transparent;
+line-height: 300px;
+border: 1px solid #0038FF;
+}
+
+#navbarNav {
+    left: 300px;
+}
+
+header {
+    margin-bottom: 50px;
+}
+
+.h2-weight {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-weight: 500;
+}
+#about {
+    margin-bottom: 100px;
+}
+
+.row-margins {
+    margin-right: -100px;
+    margin-left: -100px;
+}
+
+@media only screen and (min-width: 1650px) {
+    #a1 {
+        position:relative;
+        right: 200px;
+    }
+
+    #a2 {
+        position:relative;
+        
+    }
+
+    #a3 {
+        position:relative;
+        left: 200px;
+    }
+}
+
+article {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.btn-style {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 8px 
+    !important
+}
