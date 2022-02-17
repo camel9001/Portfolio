@@ -62,10 +62,6 @@
     right: 60px;
 }
 
-.container-toright {
-    left: 80px;
-}
-
 #container-fluid {
     height: 416px;
 }
@@ -103,26 +99,9 @@ header {
     margin-left: -100px;
 }
 
-@media only screen and (min-width: 1650px) {
-    #a1 {
-        position:relative;
-        right: 200px;
-    }
-
-    #a2 {
-        position:relative;
-        
-    }
-
-    #a3 {
-        position:relative;
-        left: 200px;
-    }
-}
-
 article {
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .btn-style {
@@ -132,3 +111,9 @@ article {
     font-size: 8px 
     !important
 }
+.to-right {
+    left: 30px;
+}
+a:link {color: black;}
+a:visited {color: black;}
+a:active {color: black;}
