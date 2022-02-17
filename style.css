@@ -117,3 +117,20 @@ article {
 a:link {color: black;}
 a:visited {color: black;}
 a:active {color: black;}
+
+span {
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+#bluespan {
+    color: blue;
+}
+
+.btn-color-inside {
+    color: black !important
+}
+.bg-color-form {
+    background: rgb(171 171 171 100%) !important
+}
+
