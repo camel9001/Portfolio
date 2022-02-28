@@ -131,6 +131,26 @@ font-family: 'Roboto', sans-serif;
     color: black !important
 }
 .bg-color-form {
-    background: rgb(171 171 171 100%) !important
+    color: black !important;
 }
 
+.complete {
+    background-color: url('moroccan-flower-dark.png');
+}
+
+#hero2 {
+    height: 429px;
+    width: 100%;
+    background: url("Group\ 3.png") no-repeat center;
+    background-size: cover;
+}
+
+.akapit2 {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight: 400;
+    font-size: 72px;
+    margin-bottom: 0px;
+    display: inline-block;
+}
