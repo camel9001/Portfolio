@@ -154,3 +154,24 @@ font-family: 'Roboto', sans-serif;
     margin-bottom: 0px;
     display: inline-block;
 }
+.akapit3 {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.akapit4 {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+@media screen and (max-width: 992px) and (min-width: 576px) {
+    h1.akapit3 {
+        margin-top: 2px !important;
+    }
+}
